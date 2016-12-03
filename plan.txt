@@ -1,0 +1,7 @@
+Basics
+1.0 Gameboard
+100x100 cells
+up to 4 teams per game
+each cell can be occupied by 1 unit
+
+1.1 
